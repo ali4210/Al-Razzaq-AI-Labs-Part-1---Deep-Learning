@@ -1,4 +1,4 @@
-# Al Nafi International College - Deep Learning & AI Portfolio
+# Deep Learning & AI Portfolio
 
 ## => Project Overview
 This repository hosts the complete codebase for the **Deep Learning & Computer Vision** certification at **Al Nafi International College**.
