@@ -1,5 +1,4 @@
 
-```markdown
 # 🧠 The Universal Deep Learning Mastery Guide
 **Author:** Saleem Ali
 **Curriculum:** Al Nafi Deep Learning (Labs 1–40)
