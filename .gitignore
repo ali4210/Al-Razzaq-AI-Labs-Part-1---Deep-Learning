@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Deep Learning Models (Too large for Git)
+*.h5
+*.keras
+*.pb
+saved_model/
+checkpoint
+
+# Datasets
+data/
+*.png
+*.jpg
